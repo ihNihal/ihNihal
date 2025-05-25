@@ -72,7 +72,7 @@ _eSystem Research and Development Lab, Dept. of CSE, BUET (Sep 2023 - Dec 2023)_
 ## 🎓 Education & Certifications
 
 - **BSc in Computer Science & Engineering**  
-  North South University, 2019–2024 | CGPA: 3.41/4.00
+  North South University, 2019–2024
 
 - **Certifications:**  
   - Introduction to Software Engineering by IBM (Coursera)  
