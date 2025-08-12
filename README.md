@@ -25,7 +25,7 @@ I'm a dynamic and ambitious Software Engineer with a strong foundation in comput
 ## 👨‍💻 Professional Experience
 
 **Associate Software Engineer**  
-_Softzino Technologies (Mar 2024 - Present)_  
+_Softzino Technologies (Mar 2024 - Jul 2025)_  
 - Built and integrated RESTful APIs with Laravel, consumed by Vue.js front-ends
 - Core member of R&D team, delivering full-stack solutions with Laravel and Vue.js
 - Developed and maintained custom Laravel packages with comprehensive tests (Pest)
