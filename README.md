@@ -24,6 +24,12 @@ I'm a dynamic and ambitious Software Engineer with a strong foundation in comput
 
 ## 👨‍💻 Professional Experience
 
+**Software Engineer**  
+*Codonyx* • (Aug 2023 – Present)  
+- Contributing to the company's Laravel-based ERP system
+- Designed and developed the HRM module (employee management, attendance, leave applications)
+- Currently building the CRM module for streamlined customer interactions and sales processes
+
 **Associate Software Engineer**  
 _Softzino Technologies (Mar 2024 - Jul 2025)_  
 - Built and integrated RESTful APIs with Laravel, consumed by Vue.js front-ends
